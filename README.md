@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic developer who's exploring the various fields of software engineering. I have a sound knowledge on HTML, CSS and JS and have done a few projects with it.</h3>
 
 ## 👨🏽‍💻 Where I'm working
-I am a Trainee Software Engineer at BJIT Limited under J2EE Program.
+I am looking for a job.
 
 ## 🧠 What I'm currently learning
 I'm currently learning the contents required to fulfill the program. This includes from basic to advanced Java application, design patterns, frameworks for both frontend and backend, dockers, microservices, etc.
